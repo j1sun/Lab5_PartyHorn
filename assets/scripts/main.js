@@ -1,4 +1,4 @@
-// main.js
+// main.js 
 
 // Initialize volume number/slider event listeners
 (function () {
